@@ -190,3 +190,8 @@
   191  git add .
   192  git status
   193  git status
+  194  git add .
+  195  git status
+  196  git commit -m "moved style"
+  197  git status
+  198  git sdd .
