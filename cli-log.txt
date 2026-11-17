@@ -183,3 +183,10 @@
   184  git checkout feature/new-ui-button
   185  git status
   186  git add.
+  187  git add .
+  188  git status
+  189  git commit -m "change index html"
+  190  git status
+  191  git add .
+  192  git status
+  193  git status
