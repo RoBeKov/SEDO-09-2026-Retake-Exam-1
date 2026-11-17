@@ -195,3 +195,42 @@
   196  git commit -m "moved style"
   197  git status
   198  git sdd .
+  199  git add .
+  200  git commit -m "moved style"
+  201  git rebase -i HEAD~3
+  202  git status
+  202  git status
+  203  git add cli-log.txt
+  204  git commit -m "Add CLI command log"
+  205  git status
+  205  git status
+  206  git add cli-log.txt
+  207  git status
+  207  git status
+  208  git add ./cli-log.txt
+  209  git status
+  210  pwd
+  211  git status
+  211  git status
+  212  git add -f cli-log.txt
+  213  git status
+  213  git status
+  214  git add -f cli-log.txt
+  215  git status
+  215  git status
+  216  pwd
+  217  git status
+  218  git ls-files -v cli-log.txt
+  219  git check-attr -a -- cli-log.txt
+  220  git status
+  220  git status
+  221  git add -f ./cli-log.txt
+  222  git diff --cached --stat
+  223  git status
+  223  git status
+  224  git add -v cli-log.txt
+  225  git diff --cached --stat
+  225  git diff --cached --stat
+  226  git commit -m "Add CLI log file"
+  227  git status
+  227  git status
