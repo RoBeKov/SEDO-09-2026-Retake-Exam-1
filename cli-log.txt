@@ -1,0 +1,185 @@
+    1  git --version
+    2  ssh -T git@github.com
+    3  ssh -T git@github.com
+    4  ssh -T git@github.com
+    5  git remote -v
+    6  git --version
+    7  git config --global user.name
+    8  git config --user.email
+    9  git config --global user.email
+   10  git status
+   11  git remote -v
+   12  git is-remote origin
+   13  git is -remote origin
+   14  git ls-remote origin
+   15  dotnet --version
+   16  git --version
+   17  dotnet --version
+   18  dotnet --version
+   19  dotnet --list-sdks
+   20  dotnet --version
+   21  git --version
+   22  cd desktop
+   23  dotnet --version
+   24  dotnet build
+   25  cd desktop
+   26  cd SEDO-05-2026-Regular-Exam-1
+   27  git pull
+   28  git checkout bugfix/home-load
+   29  git checkout feature/new-ui-button
+   30  git status
+   31  git add .
+   32  git status
+   33  git commit -m "change index.html"
+   34  git status
+   35  git add .
+   36  git status
+   37  git commit -m "update script.js file"
+   38  git status
+   39  git add .
+   40  git status
+   41  git commit -m "update style.css"
+   42  git log --oneline
+   43  git rebase -i HEAD~3
+   44  git rebase -i HEAD~2
+   45  git rebase -i HEAD~3
+   46  гит статус
+   47  git status
+   48  git rebase --continue
+   49  git rebase --edit-todo
+   50  git rebase --continue
+   51  git status
+   52  git log --oneline
+   53  git push
+   54  git checkout bugfix/home-load
+   55  git status
+   56  git add .
+   57  git status
+   58  git commit -m"update index"
+   59  git status
+   60  git add .
+   61  git commit -m"update style"
+   62  git status
+   63  git add .
+   64  git commit -m"update script"
+   65  git checkout chore/user-service-refaktor
+   66  git checkout chore/user-service-refactor
+   67  git status
+   68  git add .
+   69  git commit -m"update index"
+   70  git status
+   71  git add .
+   72  git commit -m"update script"
+   73  git status
+   74  git add .
+   75  git commit -m"update style"
+   76  git push
+   77  git checkout bugfix/home-load
+   78  push
+   79  git push
+   80  dotnet build
+   81  cd Users/work station/Desktop/SEDO-05-2026-Retake-Exam-1
+   82  cd SEDO-05-2026-Retake-Exam-2
+   83  cd Desktop/SEDO-05-2026-Retake-Exam-1
+   84  git clone 
+   85  git clone https://github.com/RoBeKov/SEDO-05-2026-Retake-Exam-1
+   86  git clone https://github.com/RoBeKov/SEDO-05-2026-Retake-Exam-2
+   87  dotnrt --version
+   88  dotnet --version
+   89  cd Desktop/SEDO-05-2026-Retake-Exam-1
+   90  git pull
+   91  git checkout feature/new-ui-button
+   92  git status
+   93  git add .
+   94  git status
+   95  git commit -m "change index.html"
+   96  git status
+   97  git add .
+   98  git status
+   99  git commit -m "update script.js file"
+  100  git status
+  101  git add .
+  102  git status
+  103  git commit -m "update style"
+  104  git log --oneline
+  105  git rebase -i HEAD~3
+  106  git log --oneline
+  107  git push --force-with-lease
+  108  git checkout bugfix/home-load
+  109  git status
+  110  git add .
+  111  git status
+  112  git commit -m "update index.html"
+  113  git status
+  114  git add .
+  115  git status
+  116  git commit -m "update script.js"
+  117  git status
+  118  git add .
+  119  git status
+  120  git commit -m "update style.css"
+  121  git rebase -i HEAD~3
+  122  git push --forse-with-lease
+  123  git push --force-with-lease
+  124  git checkout chore/user-service-refactor
+  125  git status
+  126  git add .
+  127  git status
+  128  git commit -m "update index.html"
+  129  git status
+  130  git add .
+  131  git status
+  132  git commit -m "update script.ls"
+  133  git status
+  134  git add .
+  135  git status
+  136  git commit -m "update style.css"
+  137  git rebase -i HEAD~3
+  138  git push --force-with-lease
+  139  dotnet ==version
+  140  dotnet --version
+  141  dotnet --version
+  142  cd Dev OPS Retake
+  143  cd..
+  144  /
+  145  cd
+  146  cd Dev Ops Retake
+  147  cd /Dev Ops Retake
+  148  cd DEV OPS Exam
+  149  cd Desktop
+  150  cd..
+  151  cd SEDO-05-2026-Regular-Exam-1
+  152  cd Django_basic
+  153  cd SEDO-05-2026-Regular-Exam-1/
+  154  cd Desktop
+  155  cd
+  156  cd Desktop
+  157  cd SEDO-05-2026-Regular-Exam-1
+  158  cd
+  159  dotnet build
+  160  cd Desktop
+  161  git clone https://github.com/RoBeKov/SEDO-09-2026-Retake-Exam-1
+  162  git clone https://github.com/RoBeKov/SEDO-09-2026-Retake-Exam-2
+  163  git --versioon
+  164  git --version
+  165  git clone https://github.com/RoBeKov/SEDO-09-2026-Retake-Exam-1
+  166  git clone https://github.com/RoBeKovSEDO-09-2026-Retake-Exam-2
+  167  git clone https://github.com/RoBeKov/SEDO-09-2026-Retake-Exam-2
+  168  ls la
+  169  ls -la
+  170  cd SEDO-09-2026_Retake-Exam-!
+  171  cd SEDO-09-2026-Retake-Exam-1
+  172  ls -la
+  173  cd
+  174  cd Desktop
+  175  dotnet --version
+  176  script cli-log.txt
+  177  bind 'set enable-bracketed-paste off'
+  178  history > cli-log.txt
+  180  source ~/.bashrc
+  181  git status
+  182  cat cli-log.txt
+  183  git pull
+  184  git checkout feature/new-ui-button
+  185  git status
+  186  git add.
